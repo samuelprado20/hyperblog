@@ -12,6 +12,7 @@ An incredible fake blog created while leaning Git and Github💚.
 * Some tricks ♠
 * Created by Samuel
 * Git is awesome
+* Rated G 🐱‍🚀
 
 > Git is really cool 😎
 > * Samuel
