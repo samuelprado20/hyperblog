@@ -10,6 +10,7 @@ An incredible fake blog created while leaning Git and Github💚.
 * Git workflow
 * Git commands
 * Some tricks ♠
+* Created by Samuel
 
 
 > Git is really cool 😎
